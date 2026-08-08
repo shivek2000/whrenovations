@@ -53,7 +53,7 @@ p {
 	margin: 0;
 	line-height: 2;
 	font-size: 1em;
-	color:#888;
+	color:#000000;
 }
 /*-- header styling starts here --*/
 /*-- //Reset-Code --*/
@@ -432,7 +432,7 @@ span.head-w3l {
 	line-height:1.5;
 }
 .agile-about-grid1 p {
-	color: #777;
+	color: #000000;
 	font-size:1.1em;
 }
 .agile-about-grid2{
