@@ -151,6 +151,7 @@ i.fa.fa-cubes {
     border: 2px dashed #0087c9;
     padding: 2em 1.5em;
     text-align: center;
+	background-color:  rgba(0, 0, 0, 0.7);
 }
 .banner-text-w3l h4 {
     color: #ffa100;
